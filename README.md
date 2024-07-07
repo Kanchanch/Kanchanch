@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Social Media web  App**
 
-- 🌱 I’m currently learning **Frameworks(express js),Server Enviroment (node js),creating API and DSA**
+- 🌱 I’m currently learning ** Data Structures and Algorithms (DSA) Frameworks(express js),Server Enviroment (node js),creating API**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kanchanch](https://github.com/Kanchanch)
 
